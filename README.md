@@ -18,4 +18,9 @@ This project is a single-page resume built strictly using **HTML**. It focuses o
 * **Tables**: Utilized *border cellspacing* and _cellpadding_  attributes for data organization.
 * **Lists**: Used `<ul>` and `<li>` tags for bulleted points under Skills and Projects.
 
+## 📸 Screenshots
+![HTML Resume Layout](./img/Screenshot%20(21).png)
+![HTML Resume Layout](./img/Screenshot%20(22).png)
+![HTML Resume Layout](./img/Screenshot%20(23).png)
+
 ---
