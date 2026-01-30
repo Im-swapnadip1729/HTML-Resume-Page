@@ -2,6 +2,9 @@
 
 This project is a single-page resume built strictly using **HTML**. It focuses on semantic structure and traditional HTML attributes to achieve a clean layout without the use of external or internal CSS.
 
+## 🔗 link to the Project
+[HTML Resume Page](https://beamish-pasca-d7a75c.netlify.app/)
+
 ## 📄 Project Preview
 ### The layout includes:
 * **Header**: Name and professional titles.
