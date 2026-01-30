@@ -21,6 +21,6 @@ This project is a single-page resume built strictly using **HTML**. It focuses o
 ## 📸 Screenshots
 ![HTML Resume Layout](./img/Screenshot%20(21).png)
 ![HTML Resume Layout](./img/Screenshot%20(22).png)
-![HTML Resume Layout](./img/Screenshot%20(23).png)
+![HTML Resume Layout](./img/Screenshot%20(24).png)
 
 ---
