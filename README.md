@@ -19,8 +19,8 @@ This project is a single-page resume built strictly using **HTML**. It focuses o
 * **Lists**: Used `<ul>` and `<li>` tags for bulleted points under Skills and Projects.
 
 ## 📸 Screenshots
-![HTML Resume Layout](./img/Screenshot%20(21).png)
-![HTML Resume Layout](./img/Screenshot%20(22).png)
-![HTML Resume Layout](./img/Screenshot%20(24).png)
+![HTML Resume Layout01](./img/Screenshot%20(21).png)
+![HTML Resume Layout02](./img/Screenshot%20(22).png)
+![HTML Resume Layout03](./img/Screenshot%20(24).png)
 
 ---
